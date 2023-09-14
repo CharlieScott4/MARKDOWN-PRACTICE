@@ -1,4 +1,3 @@
-# MARKDOWN-PRACTICE
 # Honors NJIT IS219 Advanced Website Development
 [WDPP Website](https://frhsdwebdesign.com/)
 ## **Students**
